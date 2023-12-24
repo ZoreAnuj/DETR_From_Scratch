@@ -55,7 +55,7 @@ DETR can be slower to train due to the global nature of self-attention and might
 ### Implementation Details
 ```python
 # Pseudo code for DETR model initialization
-detr = DETR(num_classes, num_queries, transformer_layers, etc.)
+detr = DETR(num_classes, num_queries, transformer_layers)
 ```
 
 ### Example Usage
@@ -65,4 +65,4 @@ predictions = detr(input_image)
 ```
 
 ### References
-(https://github.com/facebookresearch/detr)]
+(https://github.com/facebookresearch/detr)
