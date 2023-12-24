@@ -10,7 +10,7 @@ DETR addresses the complexity and inefficiencies of prior object detection syste
 
 ## 2. DETR Architecture
 
-![alt text](https://github.com/ZoreAnuj/Image_Colorization/blob/main/pix2pix_arch.png)
+![alt text](https://github.com/ZoreAnuj/DETR_From_Scratch/blob/main/DETR.jpg)
 
 
 ### Overall Structure
